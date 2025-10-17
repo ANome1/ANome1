@@ -18,11 +18,6 @@
 
 ---
 
-## 📊 Mes Stats GitHub
-![PrettyFlacko's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANome1&show_icons=true&theme=tokyonight)
-
----
-
 ## 🧩 Projets récents
 - 🎯 [Projet Golang et Web](https://github.com/ANome1/projet_Power4)
 - 🌐 [Portfolio PrettyFlacko.fr](https://prettyflacko.fr)
