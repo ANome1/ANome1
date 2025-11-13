@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Pretty Flacko aka @ANome1
 
-🎓 Étudiant en informatique  
+🎓 CS student 
 💻 Currently learning **Go (Golang)**  
 🐍 Pretty comfortable with **Python** and **développement web**  
 📁 Most of my repositories are **school project**  
