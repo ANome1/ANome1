@@ -3,7 +3,7 @@
 🎓 CS student
  
 💻 Currently learning **Go (Golang)**  
-🐍 Pretty comfortable with **Python** and **web development**  
+🐍 Pretty comfortable with **Python** and **web development (Front)**  
 📁 Most of my repositories are **school project**  
 ⚡ Fun fact : I'm **20 yo**  
 🌐 My portfolio (in development) : [prettyflacko.fr](https://prettyflacko.fr)
