@@ -30,7 +30,7 @@
 
 | Project | Description |
 | :--- | :--- |
-| **[🎧 Groupie Tracker Headphones](https://github.com/Lyon-Ynov-Campus/groupie-tracker-headphones)** | A music data visualization project consuming APIs. Built with **Go** & **Web Tech**. |
+| **[🎧 Groupie Tracker Headphones](https://github.com/Lyon-Ynov-Campus/groupie-tracker-headphones)** | A **musical mini-games platform** powered by API data. Backend: **Go**. |
 
 <br/>
 
