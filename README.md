@@ -1,21 +1,40 @@
+<div align="center">
+
+<img src="./banner.jpg" alt="Pretty Flacko Banner" width="100%" />
+
+<br/>
+
 # 👋 Hi, I’m Pretty Flacko aka @ANome1
 
-🎓 CS student
- 
-💻 Currently learning **Go (Golang)**  
-🐍 Pretty comfortable with **Python** and **web development (Front)**  
-📁 Most of my repositories are **school project**  
-⚡ Fun fact : I'm **20 yo**  
-🌐 My portfolio (in development) : [prettyflacko.fr](https://prettyflacko.fr)
+🎓 CS student | ⚡ 20 yo
+💻 Currently learning **Go** | 🐍 Comfortable with **Python** & **Web Dev (Frontend)**
+
+[🌐 Visit my Portfolio](https://prettyflacko.fr)
 
 ---
 
-## 🚀 Langages & Tools
+### 🛠️ Languages and Tools
 
+<img alt="Go" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" />
+<img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+<img alt="Vue" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" />
+<img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+<img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
+<img alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
+<img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
 
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<br/>
+<br/>
 
+### 📂 Featured Projects
+
+| Project | Description |
+| :--- | :--- |
+| **[🎧 Groupie Tracker Headphones](https://github.com/Lyon-Ynov-Campus/groupie-tracker-headphones)** | A **musical mini-games platform** powered by API data. Backend: **Go**. |
+
+<br/>
+
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANome1&layout=compact&theme=dracula&hide_border=true&langs_count=6" />
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ANome1&show_icons=true&theme=dracula&hide_border=true&count_private=false" />
+
+</div>
