@@ -1,9 +1,13 @@
 <div align="center">
 
+<img src="./banner.jpg" alt="Pretty Flacko Banner" width="100%" />
+
+<br/>
+
 # 👋 Hi, I’m Pretty Flacko aka @ANome1
 
 🎓 CS student | ⚡ 20 yo
-💻 Currently learning **Go** | 🐍 Comfortable with **Python** & **Web Dev (Front)**
+💻 Currently learning **Go** | 🐍 Comfortable with **Python** & **Web Dev (Frontend)**
 
 [🌐 Visit my Portfolio](https://prettyflacko.fr)
 
@@ -22,7 +26,7 @@
 <br/>
 <br/>
 
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANome1&layout=compact&theme=dark&hide_border=true&langs_count=6" />
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ANome1&show_icons=true&theme=dark&hide_border=true&count_private=false" />
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANome1&layout=compact&theme=dracula&hide_border=true&langs_count=6" />
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ANome1&show_icons=true&theme=dracula&hide_border=true&count_private=false" />
 
 </div>
