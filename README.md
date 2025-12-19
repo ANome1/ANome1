@@ -34,24 +34,16 @@
 <br/>
 <br/>
 
-<div align="left">
+<div align="center">
 
-### 📂 Featured Project
+### 📂 Projects
 
-#### 🎧 [Groupie Tracker Headphones](https://github.com/Lyon-Ynov-Campus/groupie-tracker-headphones)
-> *Plateforme de jeux musicaux multijoueurs (Blind Test & Petit Bac) en temps réel.*
-
-* **About:** Jeux synchronisés via **WebSockets (Custom)** utilisant l'**API Deezer**.
-* **My Role:** Base de données (SQLite), Authentification, Gestion des salles & Frontend général.
-* **Tech Stack:**
-    <br/>
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+| Project | Description & Role | Tech Stack |
+| :--- | :--- | :--- |
+| **[🎧 Groupie Tracker](https://github.com/Lyon-Ynov-Campus/groupie-tracker-headphones)** | **Plateforme de jeux musicaux temps réel** (Blind Test & Petit Bac).<br/>*Role : Backend, DB & Auth.* | <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> |
 
 </div>
+<br/>
 </div>
 
 <br/>
