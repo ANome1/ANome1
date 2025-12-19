@@ -26,6 +26,14 @@
 <br/>
 <br/>
 
+### 📂 Featured Projects
+
+| Project | Description |
+| :--- | :--- |
+| **[🎧 Groupie Tracker Headphones](https://github.com/Lyon-Ynov-Campus/groupie-tracker-headphones)** | A music data visualization project consuming APIs. Built with **Go** & **Web Tech**. |
+
+<br/>
+
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANome1&layout=compact&theme=dracula&hide_border=true&langs_count=6" />
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ANome1&show_icons=true&theme=dracula&hide_border=true&count_private=false" />
 
