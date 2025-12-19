@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.jpg" alt="Pretty Flacko Banner" width="100%" />
+<img src="./banner.jpg" alt="Pretty Flacko Banner" width="70%" />
 
 <br/>
 
