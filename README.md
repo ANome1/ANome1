@@ -40,7 +40,7 @@
 
 | Project | Description & Role | Tech Stack |
 | :--- | :--- | :--- |
-| **[🎧 Groupie Tracker](https://github.com/Lyon-Ynov-Campus/groupie-tracker-headphones)** | **Plateforme de jeux musicaux temps réel** (Blind Test & Petit Bac).<br/>*Role : Backend, DB & Auth.* | <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> |
+| **[🎧 Groupie Tracker](https://github.com/Lyon-Ynov-Campus/groupie-tracker-headphones)** | **Plateforme de jeux musicaux temps réel** (Blind Test & Petit Bac).<br/>*Role : Frontend, DB & Auth.* | <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> |
 
 </div>
 <br/>
