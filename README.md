@@ -36,7 +36,7 @@
 
 <div align="center">
 
-### 📂 Projects
+### 📂 Featured Projects
 
 | Project | Description & Role | Tech Stack |
 | :--- | :--- | :--- |
