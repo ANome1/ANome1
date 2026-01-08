@@ -48,9 +48,9 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
 
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANome1&layout=compact&theme=dracula&hide_border=true&langs_count=6" />
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ANome1&show_icons=true&theme=dracula&hide_border=true&count_private=false" />
 
-</div>
+</div> -->
