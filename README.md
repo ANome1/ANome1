@@ -37,7 +37,8 @@
 
 | Project | Description & Role | Tech Stack |
 | :--- | :--- | :--- |
-| **[🎧 Groupie Tracker](https://github.com/Lyon-Ynov-Campus/groupie-tracker-headphones)** | **Plateforme de jeux musicaux temps réel** (Blind Test & Petit Bac).<br/>*Role : Frontend, DB & Auth.* | <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> |
+|**[Forum Diapason](https://github.com/Lyon-Ynov-Campus/groupie-tracker-headphones)** | **Forum de musique** <br/>*Role : Frontend & Auth.* | <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> |
+| **[Groupie Tracker](https://github.com/Lyon-Ynov-Campus/groupie-tracker-headphones)** | **Plateforme de jeux musicaux temps réel** (Blind Test & Petit Bac).<br/>*Role : Frontend, DB & Auth.* | <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> |
 | **[YBOOSTER](https://github.com/ANome1/Yboost)** | **Plateforme d'ouverture de booster** (League of Legends).<br/>*Role : All project.* | <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> |
 
 </div>
