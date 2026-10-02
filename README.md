@@ -26,6 +26,9 @@
 <img alt="Go" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" />
 <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
 <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+<img alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
+<img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
+<img alt="Next" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" />
 <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
 
 <br/>
@@ -37,7 +40,7 @@
 
 | Project | Description & Role | Tech Stack |
 | :--- | :--- | :--- |
-|**[Forum Diapason](https://github.com/Lyon-Ynov-Campus/groupie-tracker-headphones)** | **Forum de musique** <br/>*Role : Frontend & Auth.* | <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> |
+|**[Forum Diapason](https://github.com/Lyon-Ynov-Campus/forum-diapason)** | **Forum de musique** <br/>*Role : Frontend & Auth.* | <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> |
 | **[Groupie Tracker](https://github.com/Lyon-Ynov-Campus/groupie-tracker-headphones)** | **Plateforme de jeux musicaux temps réel** (Blind Test & Petit Bac).<br/>*Role : Frontend, DB & Auth.* | <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> |
 
 </div>
